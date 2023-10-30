@@ -2,7 +2,9 @@
 
 <a href="https://www.packtpub.com/programming/learn-quantum-computing-with-python-and-ibm-q-experience?utm_source=github&utm_medium=repository&utm_campaign=9781838981006"><img src="https://static.packt-cdn.com/products/9781838981006/cover/smaller" alt="Learn Quantum Computing with Python and IBM Quantum Experience" height="256px" align="right"></a>
 
-This is a 2023 review attempt for the Github repo: https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience
+This is a 2023 review attempt for the Github repo: https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience.
+
+The original book can be found at: https://www.packtpub.com/programming/learn-quantum-computing-with-python-and-ibm-q-experience?utm_source=github&utm_medium=repository&utm_campaign=9781838981006
 
 ## Installation:
 
