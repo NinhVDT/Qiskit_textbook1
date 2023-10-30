@@ -24,4 +24,5 @@ pip install -r requirements.txt
 ## Oct 2023 Update:
 
 Currently the online modules of this repo are not working and have been commented out.
-However, chapter 4, 5, 6 are completely offline and run right after installing requirements.txt
+
+However, chapter 4, 5, 6 are completely offline and run right after installing `requirements.txt`.
