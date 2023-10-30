@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/programming/learn-quantum-computing-with-python-and-ibm-q-experience?utm_source=github&utm_medium=repository&utm_campaign=9781838981006"><img src="https://static.packt-cdn.com/products/9781838981006/cover/smaller" alt="Learn Quantum Computing with Python and IBM Quantum Experience" height="256px" align="right"></a>
 
-This is a 2023 review attempt for the [Github repo](https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience).
+This is a 2023 review attempt for the Github repo: https://github.com/PacktPublishing/Learn-Quantum-Computing-with-Python-and-IBM-Quantum-Experience.
 
 The original book can be found [here](https://www.packtpub.com/programming/learn-quantum-computing-with-python-and-ibm-q-experience?utm_source=github&utm_medium=repository&utm_campaign=9781838981006).
 
@@ -29,4 +29,4 @@ pip install -r requirements.txt
 
 Currently the online modules of this repo are not working and have been commented out.
 
-However, Chapter 4, 5, 6 are completely offline and run right after installing `requirements.txt`.
+However, Chapters 4, 5, 6 are completely offline and run right after installing `requirements.txt`.
