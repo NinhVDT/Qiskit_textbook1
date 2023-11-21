@@ -25,6 +25,24 @@ conda activate qiskit_env
 pip install -r requirements.txt
 ```
 
+To be able to run the full code repo, including the IBMQ online components, continue the installation with these steps:
+
+- Go to https://quantum-computing.ibm.com/ and create an account
+
+- Log in and from the Dashboard tab, copy the API token on the top right of the screen
+
+- Replace the copied API token into `setup.py`, then run this file:
+
+```
+python setup.py
+```
+
+Note that for several regions, a VPN may be required whenever an IBMQ command is called.
+
+## Nov 2023 Update:
+
+`setup.py` is now created to help with the registration for IBMQ (extracted from Chapter 7's notebook).
+
 ## Oct 2023 Update:
 
 Currently the online modules of this repo are not working and have been commented out.
