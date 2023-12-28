@@ -1,2 +1,2 @@
 from qiskit import IBMQ
-IBMQ.save_account('82dc49d71dcb05626699f943d7249edce4043a9e1771dc8b2fbe369b838421c2e715b81e3f743e80d7243ecf8749089e79d3e4a92b7e6f2f52f4e205d15ab0e0', overwrite=True)
+IBMQ.save_account("<paste your API token here>", overwrite=True)
